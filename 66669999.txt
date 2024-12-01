@@ -16,14 +16,16 @@ https://ghproxy.net/https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/
 专享区
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A0.txt
 
-Github
+电视直播源接口：
+#首选 https://jasonml.xyz/m3u/aptv.m3u https://iptv.jasonml.xyz/m3u/iptv.txt
+https://iptv.jasonml.xyz/m3u/tv.txt
+EPG接口：
+http://diyp.112114.xyz
+影视点播接口：
+1.应用多多https://jihulab.com/duomv/apps/-/raw/main/fast.json
+2.老刘备https://raw.liucn.cc/box/dm.txt
 
-https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/tv-ipv4-cmcc.m3u
-
-jsDelivr CDN (CDN加速，大陆用户任选用)
-
-https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@latest/tv-ipv4-cmcc.m3u
-
+所有播放源均收集于互联网，仅供测试研
 
 
 
