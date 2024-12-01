@@ -12,3 +12,6 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/lalifeier/IPTV/refs/hea
 https://cors.isteed.cc/https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/m3u/Live.m3uhttps://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/m3u/douyu.m3u
 https://cors.isteed.cc/https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/m3u/Live.m3uhttps://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/m3u/huya.m3u
 https://cors.isteed.cc/https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/m3u/Live.m3uhttps://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/m3u/yy.m3u
+
+专享区
+https://cors.isteed.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A0.txt
