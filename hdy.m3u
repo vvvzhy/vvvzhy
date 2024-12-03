@@ -1,340 +1,320 @@
+
+
 #EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼电影3
-http://diyp.112114.xyz/douyu/6369954
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼电影3
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼电影1
-http://allinone.netsite.cc/douyu/747764
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼电影3
-http://allinone.netsite.cc/douyu/36337
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼电影02
-http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼电影19
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼电影19
-http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼直播-开心麻花经典小品
-http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",斗鱼电影2
-http://allinone.netsite.cc/douyu/6140589
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",神乐影院-1台
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",神乐影院-2台
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",大吉大利影院
-https://pull.kktv8.com/livekktv/128600025.flv
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",吃米滴虫✔原
-http://diyp.112114.xyz/douyu/315457
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",冰冰经典✔原
-http://diyp.112114.xyz/douyu/74374
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",星爷影院✔原
-http://diyp.112114.xyz/douyu/508118
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",凌儿影院✔原
-http://diyp.112114.xyz/douyu/1377142
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",瑶瑶恐怖✔原
-http://diyp.112114.xyz/douyu/2935323
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",怡寶影院✔原
-http://diyp.112114.xyz/douyu/434971
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",小黛兮影✔原
-http://diyp.112114.xyz/douyu/11553944
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",萌小鬼片✔原
-http://diyp.112114.xyz/douyu/3928
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",神乐影剧✔原
-http://diyp.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",可乐影院✔原
-http://diyp.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",小宇60帧✔原
-http://diyp.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",恐怖惊悚✔原
-http://diyp.112114.xyz/douyu/96577
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",電影劇場✔原
-http://diyp.112114.xyz/douyu/7575350
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",豆瓣高分✔原
-http://diyp.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",花卷陪看✔原
-http://diyp.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",漫威剧情✔原
-http://diyp.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",霍格沃茨✔原
-http://diyp.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",鱼宝恐怖✔原
-http://diyp.112114.xyz/douyu/1165374
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",吃奶滴虫✔原
-http://diyp.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",变种人片✔原
-http://diyp.112114.xyz/douyu/9651304
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",喜剧电影✔原
-http://diyp.112114.xyz/douyu/9292492
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",女神电影✔原
-http://diyp.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",避风影院✔原
-http://diyp.112114.xyz/douyu/9826611
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",欧美大片✔原
-http://diyp.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",贝爷max✔原
-http://diyp.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",贝爷影厅✔原
-http://diyp.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",凌儿影院✔原
-http://iptv.frp.terry666.xyz:90/douyu/1377142
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",小宇60帧✔原
-http://iptv.frp.terry666.xyz:90/douyu/323876
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",恐怖惊悚✔原
-http://iptv.frp.terry666.xyz:90/douyu/96577
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",電影劇場✔原
-http://iptv.frp.terry666.xyz:90/douyu/7575350
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",豆瓣高分✔原
-http://iptv.frp.terry666.xyz:90/douyu/8770422
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",花卷陪看✔原
-http://iptv.frp.terry666.xyz:90/douyu/52787
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",漫威剧情✔原
-http://iptv.frp.terry666.xyz:90/douyu/6140589
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",霍格沃茨✔原
-http://iptv.frp.terry666.xyz:90/douyu/8814650
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",鱼宝恐怖✔原
-http://iptv.frp.terry666.xyz:90/douyu/1165374
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",吃奶滴虫✔原
-http://iptv.frp.terry666.xyz:90/douyu/263824
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",变种人片✔原
-http://iptv.frp.terry666.xyz:90/douyu/9651304
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",喜剧电影✔原
-http://iptv.frp.terry666.xyz:90/douyu/9292492
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",女神电影✔原
-http://iptv.frp.terry666.xyz:90/douyu/747764
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",欧美大片✔原
-http://iptv.frp.terry666.xyz:90/douyu/2793084
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼📹轮播>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼📹轮播>",贝爷影厅✔原
-http://iptv.frp.terry666.xyz:90/douyu/252802
 
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",[KKTV]大吉大利影院
-https://pull.kktv8.com/livekktv/128600025.flv
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",星光视界频道
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",重温经典卫星
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典宫庭频道
-http://live.dxms.top:80/dwy/gtjc.php
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典清剧频道
-http://live.dxms.top:80/dwy/jdqj.php
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典天龙频道
-http://live.dxms.top:80/dwy/jdtl.php
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",金庸剧场频道
-http://cfss.cc/cdn/hy/11602082.flv
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典金庸频道
-http://live.dxms.top:80/dwy/jyjc.php
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典三国频道
-http://live.dxms.top:80/dwy/jdsg.php
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典怀旧频道
-http://live.dxms.top:80/dwy/hjjc.php
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典喜剧频道
-http://live.dxms.top:80/dwy/jdxj.php
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典回忆频道
-http://live.dxms.top:80/dwy/hyyy.php
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",斗鱼电影1
-http://iptv.frp.terry666.xyz:90/douyu/747764
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",斗鱼电影3
-http://iptv.frp.terry666.xyz:90/douyu/36337
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",斗鱼电影02
-http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",斗鱼电影19
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",斗鱼电影19
-http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",斗鱼直播-开心麻花经典小品
-http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 tvg-id="1" tvg-name="<洪宇DIY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",斗鱼电影2
-http://iptv.frp.terry666.xyz:90/douyu/6140589
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]铁道游击队
-http://iptv.frp.terry666.xyz:90/huya/11352936
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]铁齿铜牙
-http://iptv.frp.terry666.xyz:90/huya/11342396
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]士兵突击
-http://iptv.frp.terry666.xyz:90/huya/11342430
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[yy]士兵突击
-https://live.iill.top/yy/1382828766
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]刑事侦缉档案
-http://iptv.frp.terry666.xyz:90/huya/23734169
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]寻秦记
-http://iptv.frp.terry666.xyz:90/huya/23864973
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[斗鱼]寻秦记
-http://iptv.frp.terry666.xyz:90/douyu/11646306
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]王晶
-http://iptv.frp.terry666.xyz:90/huya/11602058
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]一代枭雄
-http://iptv.frp.terry666.xyz:90/huya/11342398
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]陀枪师姐
-http://iptv.frp.terry666.xyz:90/huya/23860039
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[斗鱼]陀枪师姐
-http://iptv.frp.terry666.xyz:90/douyu/11645048
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]国外野外
-http://iptv.frp.terry666.xyz:90/huya/20985807
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]国内野外
-http://iptv.frp.terry666.xyz:90/huya/20985855
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]我的团长我的团
-http://iptv.frp.terry666.xyz:90/huya/11352910
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]法外狂徒张三
-http://iptv.frp.terry666.xyz:90/huya/11601965
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]铁道游击队
-http://159.75.85.63:35455/huya/11352936
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]铁齿铜牙
-http://159.75.85.63:35455/huya/11342396
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]士兵突击
-http://159.75.85.63:35455/huya/11342430
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[yy]士兵突击
-http://allinone.netsite.cc/yy/1382828766
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]刑事侦缉档案
-http://159.75.85.63:35455/huya/23734169
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]寻秦记
-http://159.75.85.63:35455/huya/23864973
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[斗鱼]寻秦记
-http://diyp.112114.xyz/douyu/11646306
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]王晶
-http://159.75.85.63:35455/huya/11602058
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]一代枭雄
-http://159.75.85.63:35455/huya/11342398
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]陀枪师姐
-http://159.75.85.63:35455/huya/23860039
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[斗鱼]陀枪师姐
-http://diyp.112114.xyz/douyu/11645048
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]国外野外
-http://159.75.85.63:35455/huya/20985807
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]国内野外
-http://159.75.85.63:35455/huya/20985855
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]我的团长我的团
-http://159.75.85.63:35455/huya/11352910
-#EXTINF:-1 tvg-id="1" tvg-name="<虎牙>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]法外狂徒张三
-http://159.75.85.63:35455/huya/11601965
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]宇宙探索飞船
-http://iptv.frp.terry666.xyz:90/douyu/9456028
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]李允儿助眠小窝
-http://iptv.frp.terry666.xyz:90/douyu/9038894
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]鬼片
-http://iptv.frp.terry666.xyz:90/douyu/310926
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]永不磨灭的番号
-http://iptv.frp.terry666.xyz:90/douyu/8157860
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]刑事侦缉档案
-http://iptv.frp.terry666.xyz:90/douyu/138959
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]胡八一
-http://iptv.frp.terry666.xyz:90/douyu/5800628
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]天龙八部
-http://iptv.frp.terry666.xyz:90/douyu/7655471
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[yy]天龙八部
-https://live.iill.top/yy/28996058
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]西游记续集
-http://iptv.frp.terry666.xyz:90/douyu/3113309
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]宇宙探索飞船
-http://diyp.112114.xyz/douyu/9456028
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]李允儿助眠小窝
-http://diyp.112114.xyz/douyu/9038894
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]鬼片
-http://diyp.112114.xyz/douyu/310926
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]永不磨灭的番号
-http://diyp.112114.xyz/douyu/8157860
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]刑事侦缉档案
-http://diyp.112114.xyz/douyu/138959
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]胡八一
-http://diyp.112114.xyz/douyu/5800628
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]天龙八部
-http://diyp.112114.xyz/douyu/7655471
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[yy]天龙八部
-http://allinone.netsite.cc/yy/28996058
-#EXTINF:-1 tvg-id="1" tvg-name="<斗鱼>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<斗鱼>",[斗鱼]西游记续集
-http://diyp.112114.xyz/douyu/3113309
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]康熙微服私访记
-https://live.iill.top/yy/1352811698
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]举起手来
-https://live.iill.top/yy/1382736877
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]少年包青天1-3蓝光版
-https://live.iill.top/yy/38498680
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]我的兄弟叫顺溜
-https://live.iill.top/yy/1459331991
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]林正英
-https://live.iill.top/yy/1353685311
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]新白娘子传奇
-https://live.iill.top/yy/1354490667
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]吴京
-https://live.iill.top/yy/37999586
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]林正英
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-name="Astr剧集" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",Astr剧集
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="洪宇π影视",澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",邵氏电影
+https://live.metshop.top/douyu/4246519
+
+#EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",斗鱼轮播(左1右)
+https://live.metshop.top/douyu/426517
+#EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",斗鱼轮播(左2右)
+https://live.metshop.top/douyu/1274132
+#EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",斗鱼轮播(左3右)
+http://120.77.28.4:8648/douyu.php?id=6140589
+#EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",斗鱼轮播(左4右)
+http://120.77.28.4:8648/douyu.php?id=3928
+#EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",斗鱼轮播(左5右)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+#EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",斗鱼轮播(左6右)
+http://allinone.netsite.cc/huya/11352887
+
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台1)
+http://allinone.netsite.cc/huya/11602077
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台2)
+http://allinone.netsite.cc/huya/11342423
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台3)
+http://allinone.netsite.cc/huya/11352894
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台4)
+http://allinone.netsite.cc/huya/11342395
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台5)
+http://allinone.netsite.cc/huya/11342435
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台6)
+http://allinone.netsite.cc/huya/11352887
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台7)
+http://allinone.netsite.cc/huya/21059580
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台8)
+http://allinone.netsite.cc/huya/21059554
+#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="洪宇π影视",虎牙轮播(换台9)
+http://allinone.netsite.cc/huya/21059596
+
+#EXTINF:-1 tvg-name="星爷" group-title="洪宇π影视",星爷1
+https://aldirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
+#EXTINF:-1 tvg-name="星爷" group-title="洪宇π影视",星爷2
+http://allinone.netsite.cc/huya/11336587
+#EXTINF:-1 tvg-name="星爷" group-title="洪宇π影视",星爷3
+http://allinone.netsite.cc/huya/11342412
+
+#EXTINF:-1 tvg-name="沈腾" group-title="洪宇π影视",沈腾
+http://allinone.netsite.cc/huya/11601968
+#EXTINF:-1 tvg-name="成龙" group-title="洪宇π影视",成龙1
+http://allinone.netsite.cc/huya/11342386
+#EXTINF:-1 tvg-name="成龙" group-title="洪宇π影视",成龙2
+http://zby.xjqxz.top/cldy/live.m3u8
+
+#EXTINF:-1 tvg-name="英叔" group-title="洪宇π影视",英叔1
+http://allinone.netsite.cc/huya/11342421
+#EXTINF:-1 tvg-name="英叔" group-title="洪宇π影视",英叔2
 https://live.iill.top/yy/1351505899
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]香港动作片
-https://live.iill.top/yy/24407222
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]火蓝刀锋
-https://live.iill.top/yy/1382737892
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]赌片
-https://live.iill.top/yy/24921161
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]小兵张嘎
-https://live.iill.top/yy/1354930225
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]敢死队
-https://live.iill.top/yy/1382735573
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]少年包青天
-https://live.iill.top/yy/1382651363
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]天道
-https://live.iill.top/yy/1382735574
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]第一滴血全集
-https://live.iill.top/yy/1354932355
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]成龙系列
-https://live.iill.top/yy/1354888751
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]动物世界
-https://live.iill.top/yy/1382736834
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]港台影院
-https://live.iill.top/yy/1354889234
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]蜘蛛侠
-https://live.iill.top/yy/1354926671
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]国语国外战争
-https://live.iill.top/yy/1382735571
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]黑衣人
-https://live.iill.top/yy/1354933556
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]憨豆先生
-https://live.iill.top/yy/1354930189
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]科幻世界
-https://live.iill.top/yy/1354930903
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]康熙微服私访记
-http://allinone.netsite.cc/yy/1352811698
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]举起手来
-http://allinone.netsite.cc/yy/1382736877
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]少年包青天1-3蓝光版
-http://allinone.netsite.cc/yy/38498680
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]我的兄弟叫顺溜
-http://allinone.netsite.cc/yy/1459331991
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]林正英
-http://allinone.netsite.cc/yy/1353685311
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]新白娘子传奇
-http://allinone.netsite.cc/yy/1354490667
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]吴京
-http://allinone.netsite.cc/yy/37999586
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]林正英
-http://allinone.netsite.cc/yy/1351505899
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]香港动作片
-http://allinone.netsite.cc/yy/24407222
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]火蓝刀锋
-http://allinone.netsite.cc/yy/1382737892
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]赌片
-http://allinone.netsite.cc/yy/24921161
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]小兵张嘎
-http://allinone.netsite.cc/yy/1354930225
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]敢死队
-http://allinone.netsite.cc/yy/1382735573
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]少年包青天
-http://allinone.netsite.cc/yy/1382651363
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]天道
-http://allinone.netsite.cc/yy/1382735574
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]第一滴血全集
-http://allinone.netsite.cc/yy/1354932355
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]成龙系列
-http://allinone.netsite.cc/yy/1354888751
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]动物世界
-http://allinone.netsite.cc/yy/1382736834
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]港台影院
-http://allinone.netsite.cc/yy/1354889234
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]蜘蛛侠
-http://allinone.netsite.cc/yy/1354926671
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]国语国外战争
-http://allinone.netsite.cc/yy/1382735571
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]黑衣人
-http://allinone.netsite.cc/yy/1354933556
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]憨豆先生
-http://allinone.netsite.cc/yy/1354930189
-#EXTINF:-1 tvg-id="1" tvg-name="<YY>" tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<YY>",[yy]科幻世界
-http://allinone.netsite.cc/yy/1354930903
+#EXTINF:-1 tvg-name="英叔" group-title="洪宇π影视",英叔3
+https://live.iill.top/yy/1150685483
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+#EXTINF:-1 tvg-name="陈翔六点半" group-title="洪宇π剧集",陈翔六点半
+http://allinone.netsite.cc/huya/11274154
+#EXTINF:-1 tvg-name="爱情公寓" group-title="洪宇π剧集",爱情公寓
+http://allinone.netsite.cc/huya/11336726
+
+#EXTINF:-1 tvg-name="万合天宜" group-title="洪宇π剧集",万合天宜1
+http://120.77.28.4:8648/douyu.php?id=9220456
+#EXTINF:-1 tvg-name="万合天宜" group-title="洪宇π剧集",万合天宜2
+http://159.75.85.63:35455/douyu/9220456
+
+#EXTINF:-1 tvg-name="琅琊榜" group-title="洪宇π剧集",琅琊榜
+http://zby.xjqxz.top/lyb/live.m3u8
+
+#EXTINF:-1 tvg-name="伪装者" group-title="洪宇π剧集",伪装者1
+http://jiaojirentv.top/2020/yy.php?id=1354936244
+#EXTINF:-1 tvg-name="伪装者" group-title="洪宇π剧集",伪装者2
+http://111.67.193.2:35455/yy/1354936244
+
+#EXTINF:-1 tvg-name="大江大河" group-title="洪宇π剧集",大江大河
+https://live.iill.top/yy/1382736797
+
+#EXTINF:-1 tvg-name="寻秦记" group-title="洪宇π剧集",寻秦记1
+https://live.iill.top/yy/1382851591
+#EXTINF:-1 tvg-name="寻秦记" group-title="洪宇π剧集",寻秦记2
+http://allinone.netsite.cc/huya/23864973
+#EXTINF:-1 tvg-name="寻秦记" group-title="洪宇π剧集",寻秦记3
+http://111.67.193.2:35455/yy/1382851591
+#EXTINF:-1 tvg-name="寻秦记" group-title="洪宇π剧集",寻秦记4
+https://live.metshop.top/yy/1382749900
+
+#EXTINF:-1 tvg-name="封神榜" group-title="洪宇π剧集",封神榜1
+http://allinone.netsite.cc/huya/23749096
+#EXTINF:-1 tvg-name="封神榜" group-title="洪宇π剧集",封神榜2
+http://120.77.28.4:8648/yy.php?id=1353426319
+
+#EXTINF:-1 tvg-name="鹿鼎记" group-title="洪宇π剧集",鹿鼎记1
+http://allinone.netsite.cc/huya/23865080
+#EXTINF:-1 tvg-name="鹿鼎记" group-title="洪宇π剧集",鹿鼎记2
+http://111.67.193.2:35455/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记" group-title="洪宇π剧集",鹿鼎记3
+https://lunbo.freetv.top/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记" group-title="洪宇π剧集",鹿鼎记4
+https://live.metshop.top/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记" group-title="洪宇π剧集",鹿鼎记5
+http://120.77.28.4:8648/yy.php?id=28265277
+
+#EXTINF:-1 tvg-name="西游记Ⅰ" group-title="洪宇π剧集",西游记Ⅰ
+https://live.iill.top/yy/1354936155
+
+#EXTINF:-1 tvg-name="天下第一" group-title="洪宇π剧集",天下第一1
+https://live.iill.top/yy/1382736838
+#EXTINF:-1 tvg-name="天下第一" group-title="洪宇π剧集",天下第一2
+http://11.xmyxc.cn/api/php/yy.php?id=1382736838
+
+#EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" group-title="洪宇π剧集",仙剑奇侠传Ⅰ1
+http://111.67.193.2:35455/yy/1382749903
+#EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" group-title="洪宇π剧集",仙剑奇侠传Ⅰ2
+http://jiaojirentv.top/2020/yy.php?id=1382749903
+#EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" group-title="洪宇π剧集",仙剑奇侠传Ⅰ3
+https://live.iill.top/yy/1382749903
+
+#EXTINF:-1 tvg-name="新三国" group-title="洪宇π剧集",新三国1
+http://allinone.netsite.cc/huya/11352944
+#EXTINF:-1 tvg-name="新三国" group-title="洪宇π剧集",新三国2
+http://120.77.28.4:8648/yy.php?id=23512910
+
+#EXTINF:-1 tvg-name="新水浒" group-title="洪宇π剧集",新水浒1
+http://allinone.netsite.cc/huya/11342384
+#EXTINF:-1 tvg-name="新水浒" group-title="洪宇π剧集",新水浒2
+http://allinone.netsite.cc/huya/11342384
+
+#EXTINF:-1 tvg-name="少年张三丰" group-title="洪宇π剧集",少年张三丰
+http://allinone.netsite.cc/huya/26355824
+#EXTINF:-1 tvg-name="少年包青天1" group-title="洪宇π剧集",少年包青天1
+https://live.iill.top/yy/1356043677
+#EXTINF:-1 tvg-name="少年包青天2" group-title="洪宇π剧集",少年包青天2
+https://live.iill.top/yy/38498680
+#EXTINF:-1 tvg-name="少年包青天3" group-title="洪宇π剧集",少年包青天3
+https://live.iill.top/yy/1382851540
+
+#EXTINF:-1 tvg-name="风云雄霸天下" group-title="洪宇π剧集",风云雄霸天下
+http://allinone.netsite.cc/huya/21059612
+
+#EXTINF:-1 tvg-name="倚天屠龙记" group-title="洪宇π剧集",倚天屠龙记1
+http://allinone.netsite.cc/huya/11342403
+#EXTINF:-1 tvg-name="倚天屠龙记" group-title="洪宇π剧集",倚天屠龙记2
+https://live.metshop.top/yy/1449856066
+
+#EXTINF:-1 tvg-name="天龙八部" group-title="洪宇π剧集",天龙八部1
+https://live.iill.top/yy/1351814644
+#EXTINF:-1 tvg-name="天龙八部" group-title="洪宇π剧集",天龙八部2
+http://allinone.netsite.cc/huya/23903123
+#EXTINF:-1 tvg-name="天龙八部" group-title="洪宇π剧集",天龙八部3
+https://live.metshop.top/yy/1351814644
+
+#EXTINF:-1 tvg-name="笑傲江湖" group-title="洪宇π剧集",笑傲江湖1
+https://live.iill.top/yy/1354930909
+#EXTINF:-1 tvg-name="笑傲江湖" group-title="洪宇π剧集",笑傲江湖2
+http://diyp.zxxoo.work/huya/23865142
+#EXTINF:-1 tvg-name="笑傲江湖" group-title="洪宇π剧集",笑傲江湖3
+http://120.77.28.4:8648/yy.php?id=1354282410
+#EXTINF:-1 tvg-name="笑傲江湖" group-title="洪宇π剧集",笑傲江湖4
+https://live.metshop.top/yy/1354936128
+#EXTINF:-1 tvg-name="笑傲江湖" group-title="洪宇π剧集",笑傲江湖5
+http://allinone.netsite.cc/huya/23865142
+
+#EXTINF:-1 tvg-name="武林外传" group-title="洪宇π剧集",武林外传
+https://live.iill.top/yy/21092633
+
+#EXTINF:-1 tvg-name="大唐双龙传" group-title="洪宇π剧集",大唐双龙传1
+http://diyp.zxxoo.work/huya/23728674
+#EXTINF:-1 tvg-name="大唐双龙传" group-title="洪宇π剧集",大唐双龙传2
+http://allinone.netsite.cc/huya/s4k
+
+#EXTINF:-1 tvg-name="隋唐英雄传" group-title="洪宇π剧集",隋唐英雄传1
+http://111.67.193.2:35455/yy/1352475619
+#EXTINF:-1 tvg-name="隋唐英雄传" group-title="洪宇π剧集",隋唐英雄传2
+https://live.iill.top/yy/1352475619
+#EXTINF:-1 tvg-name="隋唐英雄传" group-title="洪宇π剧集",隋唐英雄传3
+http://jiaojirentv.top/2020/yy.php?id=1352475619
+
+#EXTINF:-1 tvg-name="忠烈杨家将" group-title="洪宇π剧集",忠烈杨家将
+https://live.iill.top/yy/1382749909
+#EXTINF:-1 tvg-name="雪中悍刀行" group-title="洪宇π剧集",雪中悍刀行
+https://live.iill.top/yy/1382660835
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+#EXTINF:-1 tvg-name="爱放动漫" group-title="洪宇π动漫",爱放动漫
+http://litv.zapi.us.kg/?id=litv-ftv15
+#EXTINF:-1 tvg-name="黑莓动画" group-title="洪宇π动漫",黑莓动画
+http://112.102.217.173:9003//hls/100/index.m3u8
+#EXTINF:-1 tvg-name="靖洋卡通" group-title="洪宇π动漫",靖洋卡通
+http://litv.zapi.us.kg/?id=4gtv-4gtv057
+#EXTINF:-1 tvg-name="靖天卡通" group-title="洪宇π动漫",靖天卡通
+http://litv.zapi.us.kg/?id=4gtv-4gtv044
+
+#EXTINF:-1 tvg-name="猫和老鼠" group-title="洪宇π动漫",猫和老鼠
+http://allinone.netsite.cc/huya/11352879
+#EXTINF:-1 tvg-name="爆笑虫子" group-title="洪宇π动漫",爆笑虫子
+https://live.metshop.top/douyu/9942574
+
+#EXTINF:-1 tvg-name="七龙珠" group-title="洪宇π动漫",七龙珠1
+https://live.iill.top/huya/11601966
+#EXTINF:-1 tvg-name="七龙珠" group-title="洪宇π动漫",七龙珠2
+http://allinone.netsite.cc/huya/11601966
+#EXTINF:-1 tvg-name="海贼王" group-title="洪宇π动漫",海贼王
+https://live.iill.top/huya/16913382
+#EXTINF:-1 tvg-name="火影忍者" group-title="洪宇π动漫",火影忍者
+http://allinone.netsite.cc/huya/11342385
+
+#EXTINF:-1 tvg-name="灌篮高手" group-title="洪宇π动漫",灌篮高手1
+http://111.67.193.2:35455/yy/1382735626
+#EXTINF:-1 tvg-name="灌篮高手" group-title="洪宇π动漫",灌篮高手2
+https://live.iill.top/yy/1382735626
+#EXTINF:-1 tvg-name="灌篮高手" group-title="洪宇π动漫",灌篮高手3
+https://live.metshop.top/yy/1356243352
+
+#EXTINF:-1 tvg-name="哆啦A梦" group-title="洪宇π动漫",哆啦A梦1
+http://allinone.netsite.cc/huya/11601963
+#EXTINF:-1 tvg-name="哆啦A梦" group-title="洪宇π动漫",哆啦A梦2
+http://allinone.netsite.cc/huya/11601963
+#EXTINF:-1 tvg-name="哆啦A梦" group-title="洪宇π动漫",哆啦A梦3
+http://allinone.netsite.cc/huya/11601963
+#EXTINF:-1 tvg-name="蜡笔小新" group-title="洪宇π动漫",蜡笔小新1
+http://allinone.netsite.cc/huya/11352970
+#EXTINF:-1 tvg-name="蜡笔小新" group-title="洪宇π动漫",蜡笔小新2
+http://allinone.netsite.cc/huya/11352970
+#EXTINF:-1 tvg-name="海绵宝宝" group-title="洪宇π动漫",海绵宝宝
+http://allinone.netsite.cc/huya/11352919
+
+#EXTINF:-1 tvg-name="厨神小当家" group-title="洪宇π动漫",厨神小当家1
+http://allinone.netsite.cc/huya/24257300
+#EXTINF:-1 tvg-name="厨神小当家" group-title="洪宇π动漫",厨神小当家2
+http://61.221.215.25:8800/hls/40/index.m3u8
+
+#EXTINF:-1 tvg-name="柯南剧场" group-title="洪宇π动漫",柯南剧场1
+https://live.metshop.top/douyu/7620081
+#EXTINF:-1 tvg-name="柯南剧场" group-title="洪宇π动漫",柯南剧场2
+http://maomao.kandiantv.cn/douyu1.php?id=6484910
+#EXTINF:-1 tvg-name="轮播动漫" group-title="洪宇π动漫",轮播动漫
+https://live.metshop.top/douyu/1174353
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+#EXTINF:-1 tvg-name="1995" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",1995
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+#EXTINF:-1 tvg-name="1996" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",1996
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1 tvg-name="1997" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1998" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 tvg-name="1999" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",1999
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+#EXTINF:-1 tvg-name="2000" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2000
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+#EXTINF:-1 tvg-name="2001" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2001
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+#EXTINF:-1 tvg-name="2002" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2002
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1 tvg-name="2003" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2003
+https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+#EXTINF:-1 tvg-name="2004" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2004
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+#EXTINF:-1 tvg-name="2005" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2005
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+#EXTINF:-1 tvg-name="2006" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2006
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1 tvg-name="2007" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2007
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+#EXTINF:-1 tvg-name="2008" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2008
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+#EXTINF:-1 tvg-name="2009" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2009
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+#EXTINF:-1 tvg-name="2010" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2010
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1 tvg-name="2011" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2011
+https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+#EXTINF:-1 tvg-name="2012" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2012
+https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-name="2013" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2013
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+#EXTINF:-1 tvg-name="2014" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2014
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+#EXTINF:-1 tvg-name="2015" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2015
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+#EXTINF:-1 tvg-name="2016" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2016
+https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-name="2017" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2017
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+#EXTINF:-1 tvg-name="2018" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2018
+https://cdn8.yzzy-online.com/20220704/610_ae5255ad/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-name="2019" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2019
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1 tvg-name="2020" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2020
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 tvg-name="2021" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2021
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1 tvg-name="2022" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2022
+https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 tvg-name="2023" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 tvg-name="2024" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2024
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 tvg-name="2024" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春天的晚上",2024
+https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
