@@ -1,4 +1,8 @@
-#EXTM3U
+
+
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+
 #EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="⇄洪宇🥭⇆",成龙
 http://zby.xjqxz.top/cldy/live.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="⇄洪宇🥭⇆",周星驰
