@@ -1,8 +1,8 @@
-五号特工组,http://allinone.netsite.cc/yy/1414967772
-地下交通站,http://allinone.netsite.cc/yy/1382736795
+五号特工组,http://iptv.frp.terry666.xyz:90/yy/1414967772
+地下交通站,http://iptv.frp.terry666.xyz:90/yy/1382736795
 谍战,http://222.142.64.132:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-爹妈满院,http://allinone.netsite.cc/yy/1382735541
-父母爱情,http://allinone.netsite.cc/yy/1354926650
+爹妈满院,http://iptv.frp.terry666.xyz:90/yy/1382735541
+父母爱情,http://iptv.frp.terry666.xyz:90/yy/1354926650
 CCTV1,http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://112.101.78.50:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://112.101.78.50:9901/tsfile/live/0003_1.m3u8
