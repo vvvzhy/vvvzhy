@@ -5,6 +5,67 @@ https://raw.githubusercontents.com/kshjf522d/kgfs1as1/refs/heads/main/50.txt
 https://raw.githubusercontents.com/q1017673817/iptvz/refs/heads/main/txt/%E6%B2%B3%E5%8C%97%E8%81%94%E9%80%9A.txt
 https://raw.githubusercontent.com/654850695/ipv6/refs/heads/main/IPTV-tvbox.txt
 
+中国联通-湖南-酒店,#genre#
+
+V4+v6
+
+自动收集整理直播源
+
+| 类别  | 文件名  | 更新频率                                       | 备注   |
+|-------|-------|------------------------------------------------|------------|
+|直播源| （merged_output.txt） |  每日自动更新 | http://gg.gg/tv-live-txt   |
+|直播源| （merged_output.m3u） |  每日自动更新 | http://gg.gg/tv-live-m3u   |
+|黑名单| （blacklist_auto.txt） |  不定时更新 | 无效直播源会从直播源过滤掉   |
+|白名单| （whitelist_auto.txt） |  不定时更新 | 高响应源汇总到直播源   |
+
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/others_output.txt
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/merged_output_simple.txt
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/merged_output_simple.m3u
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/merged_output.txt
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/merged_output.m3u
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live_lite.txt
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live_lite.m3u
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live.txt
+https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live.m3u
+
+
+
+
+
+
+
+
+V6
+https://raw.githubusercontent.com/654850695/ipv6/refs/heads/main/IPTV-tvbox.txt
+
+https://raw.githubusercontent.com/654850695/ipv6/refs/heads/main/CNTV.m3u
+https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/huang770101/my-iptv/refs/heads/main/IPTV-ipv6.m3u
+
+https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
+
+https://raw.githubusercontent.com/Baron-Chen/iptv/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/fenxp/iptv/refs/heads/main/live/ipv6.m3u
+https://raw.githubusercontent.com/fenxp/iptv/refs/heads/main/live/tvlive.txt
+https://raw.githubusercontent.com/cuikaipeng/IPTV/refs/heads/main/TVChannels.m3u
+
+
+V4
+https://raw.githubusercontent.com/huang770101/my-iptv/refs/heads/main/IPTV-ipv4.m3u
+
+https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
