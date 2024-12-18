@@ -1,7 +1,7 @@
 #IPTV
 0
-#<🌾7🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
-https://github.moeyy.xyz/https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/IPV4.m3u
+#<🌾v4+v6混合🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+https://github.moeyy.xyz/https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/live.txt
 #<🌾[50]V4🌾>🎱(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/kshjf522d/kgfs1as1/refs/heads/main/50.m3u
 #<🌾[10]V6🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
