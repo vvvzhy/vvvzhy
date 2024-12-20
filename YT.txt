@@ -12,6 +12,9 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/lalifeier/IPTV/a50ad8
 https://github.moeyy.xyz/https://raw.githubusercontent.com/vbskycn/iptv/9d04bc1727419b200d21c522602c4a94b1c2edf3/tv/hd.txt
 #<🌾测试🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/awake000/ak/2d44c63f853a64a57a1164b6f486b90660571e3d/tv.txt
+#<🌾lpv6🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+https://github.moeyy.xyz/https://raw.githubusercontent.com/lyr22/bz/e2c084b7d1b5da4aefec75e60e5da2ae5f9d8d20/v6.txt
+
 
 #<🌾分组1🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wanglu6036/xqgdf/refs/heads/main/iptv.txt
