@@ -10,6 +10,9 @@
 https://github.moeyy.xyz/https://raw.githubusercontent.com/lalifeier/IPTV/a50ad858bb95842f842f735a74ef68c57d195ecc/txt/hotel/%E5%85%A8%E5%9B%BD.txt
 #<🌾HD🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/vbskycn/iptv/9d04bc1727419b200d21c522602c4a94b1c2edf3/tv/hd.txt
+#<🌾测试🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+https://github.moeyy.xyz/https://raw.githubusercontent.com/awake000/ak/2d44c63f853a64a57a1164b6f486b90660571e3d/tv.txt
+
 #<🌾分组1🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wanglu6036/xqgdf/refs/heads/main/iptv.txt
 #<🌾分组2🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
