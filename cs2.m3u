@@ -1,4 +1,29 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE睡眠",111
+http://ip:port/youtube/live/zJOY_nefwj0
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE睡眠",222
+http://ip:port/youtube/live/K67obinlxeQ
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE睡眠",333
+http://ip:port/youtube/live/_9PSXbRLCwE
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE睡眠",444
+http://ip:port/youtube/live/56M0RSrmG38
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE睡眠",555
+http://ip:port/youtube/live/674NbdQQ_Rc
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE睡眠",666
+http://ip:port/youtube/live/7VE79vxbpxg
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE高清4K",111
+http://ip:port/youtube/live/ERfhMo-edvA
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE高清4K",222
+http://ip:port/youtube/live/44DDeLbHs3w
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/xjj.png" group-title="YOUTUBE高清4K",333
+http://ip:port/youtube/live/LTkmuedj8sg
+
+
+
+
+
+
+#EXTM3U
 
 
 
