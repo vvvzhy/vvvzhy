@@ -23,9 +23,9 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/q309972108/tv/68efe60
 #<🌾lPv6🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/Thomas9005/TV/refs/heads/main/IPTV.m3u
 #<🌾lptv365[txt]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
-https://github.moeyy.xyz/https://live.iptv365.org/live.txt
+https://live.iptv365.org/live.txt
 #<🌾lptv365[m3u]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
-https://github.moeyy.xyz/https://live.iptv365.org/live.m3u
+https://live.iptv365.org/live.m3u
 
 
 
