@@ -2,6 +2,9 @@
 0
 
 
+#<🌾V6免费电视[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+https://github.moeyy.xyz/https://raw.githubusercontent.com/adminouyang/dszby/refs/heads/main/py/iptv%E6%BA%90%E6%94%B6%E9%9B%86%E6%A3%80%E6%B5%8B/assets/freetv/freetv_output.txt
+
 #<🌾请订阅V6[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 http://175.178.251.183:6689/live.txt
 
