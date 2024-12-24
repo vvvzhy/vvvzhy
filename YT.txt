@@ -2,6 +2,8 @@
 0
 
 
+#<🌾请订阅V6[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+http://175.178.251.183:6689/live.txt
 
 #<🌾V4[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://live.zbds.top/tv/iptv4.txt
