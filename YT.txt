@@ -1,32 +1,32 @@
 #IPTV
 0
 
-#<🌾lpV6[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾lpV6>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/bnsgj/vip/9eb927d14f8639b5e2c7aab7dc3a97a6c7fcd23b/gcl.txt
 
-#<🌾V4[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾V4>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/leiyou-li/moyuntv3/refs/heads/main/live.txt
 
-#<🌾V6[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾V6>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/leiyou-li/moyuntv3/refs/heads/main/live_ipv6.txt
 
-#<🌾东北戏曲[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾东北戏曲>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/110COM/repo/b4012aee2b87e27f25f23019d76e07fd4214ee3a/a/mut
 
-#<🌾东北戏曲[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾东北戏曲>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/ds/d8dfc5345094c3025badb781f8ac78965222d0b4/itvlist.txt
 
-#<🌾测试[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾测试>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/daaa-group/TV/75d2128e1d7438ef12414e256da6969693030751/output/user_result.txt
-#<🌾V4多源[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾V4多源>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/adminouyang/dszby/refs/heads/main/live_ipv4.txt
 
-#<🌾请订阅V6[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾请订阅V6>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 http://175.178.251.183:6689/live.txt
 
-#<🌾V4[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾V4>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://live.zbds.top/tv/iptv4.txt
-#<🌾V6[(txt)]🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾V6>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://live.zbds.top/tv/iptv6.txt
 #<🌾全国lPTV🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/lalifeier/IPTV/a50ad858bb95842f842f735a74ef68c57d195ecc/txt/hotel/%E5%85%A8%E5%9B%BD.txt
