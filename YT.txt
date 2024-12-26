@@ -1,13 +1,13 @@
 #IPTV
 0
 
-#<🌾lpV6>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾lpV6>lPV6<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/bnsgj/vip/9eb927d14f8639b5e2c7aab7dc3a97a6c7fcd23b/gcl.txt
 
 #<🌾V4>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/leiyou-li/moyuntv3/refs/heads/main/live.txt
 
-#<🌾V6>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+#<🌾V6>lPV6<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/leiyou-li/moyuntv3/refs/heads/main/live_ipv6.txt
 
 #<🌾东北戏曲>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
