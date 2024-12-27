@@ -1,6 +1,11 @@
 #IPTV
 0
 
+
+#<🌾mut8>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+https://github.moeyy.xyz/https://raw.githubusercontent.com/110COM/repo/refs/heads/main/a/mut8.m3u
+
+
 #<🌾lpV6>lPV6<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/360vip/jm/2a2d0efa4ec6f5c927d659088fef1bb7cc2b878f/tv/tv.txt
 
