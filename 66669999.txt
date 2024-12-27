@@ -12,8 +12,8 @@ dev = 内测版
 kitkat = 4.x 版
 release = 正式版
 
-lpv6测试
-https://cdn.jsdelivr.net/gh/jisoypub/iptv@latest/ipv6.m3u
+lpv6
+https://cdn.jsdelivr.net/gh/leiyou-li/moyuntv3@latest/live_ipv6.m3u
 
 
 代理
