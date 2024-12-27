@@ -25,4 +25,4 @@
 
 2,https://www.youtube.com/watch?v=cK4LemjoFd0
 
-3,http://123.173.63.0:35455/youtube/pLq0Cjb_9m0(?quality=1080/720...)
+3,http://123.173.63.0:35455/youtube/pLq0Cjb_9m0(?quality=1080)
