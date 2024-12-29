@@ -21,8 +21,10 @@ https://cdn.jsdelivr.net/gh/vvvzhy/vvvzhy@latest/tvbox/yu.json
 
 https://cdn.jsdelivr.net/gh/huang770101/my-iptv@latest/IPTV-ipv6.m3u
 
+⬇⬇⬇
+https://raw.githubusercontents.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/yu.json
 https://cdn.jsdelivr.net/gh/vvvzhy/vvvzhy@latest/tvbox/yu.json
-
+⬆⬆⬆
 https://cdn.jsdelivr.net/gh/q1017673817/iptvz@latest/iptv.txt
 
 https://cdn.jsdelivr.net/gh/110COM/repo@latest/dk/mut
