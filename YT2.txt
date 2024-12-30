@@ -3,6 +3,15 @@
 
 
 
+
+#🆔IPV4⃣(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+
+
+#🆔IPV6⃣(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
+https://raw.githubusercontents.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u
+
+
+
 #🔅IPV6🔆(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/IPTV-f-v6.m3u
 
