@@ -4,10 +4,10 @@
 
 
 #🔅IPV6🔆(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
-https://github.moeyy.xyzhttps://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/IPTV-f-v6.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/IPTV-f-v6.m3u
 
 #💓专享源🅰️(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
-https://github.moeyy.xyzhttps://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live.txt
 
 #<🌾mut8>lPV4<🌾>(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
 https://github.moeyy.xyz/https://raw.githubusercontent.com/110COM/repo/refs/heads/main/a/mut8.m3u
