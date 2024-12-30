@@ -8,7 +8,7 @@
 
 
 #🆔IPV⑥(https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png)
-https://raw.githubusercontents.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u
+https://cdn.jsdelivr.net/gh/Rivens7/Livelist@latest/IPTV.m3u
 
 
 
