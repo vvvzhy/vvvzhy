@@ -38,7 +38,7 @@
 {"key":"drjs_本地直播","name":"洪宇《GitHub直播源》","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/直播转点播.js","ext":"[洪宇DIY]lPV6$https://github.moeyy.xyz/https://raw.githubusercontent.com/lwhx/TV/c92644015b5d05ecc789073b60674a70c64fccad/output/result.txt#[洪宇备用]lPV4$https://cdn.jsdelivr.net/gh/leiyou-li/moyuntv3@latest/live.txt#[洪宇备用]lPV6$https://cdn.jsdelivr.net/gh/leiyou-li/moyuntv3@latest/live_ipv6.txt&&&https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
 
 
-
+    {"key": "商店","name": "🐸┃洪宇的商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./js/market.json","jar":"./js/custom_spider.jar;md5;f4fa24d313b7290001db8ef49bd8ae0b"},
 
 
 
