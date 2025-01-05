@@ -1,0 +1,25 @@
+//clan://localhost/tvbox/本地仓.json
+
+
+{ 
+    
+    "storeHouse": [
+
+        {
+            "sourceName": "📚洪宇的网络仓📚",
+            "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/cs/yu.txt"
+        },
+        {
+            "sourceName": "📚洪宇的OK影视📚",
+            "sourceUrl": "clan://localhost/tvbox/tvbox2.txt"
+        },
+        {
+            "sourceName": "📚洪宇的影视仓📚",
+            "sourceUrl": "clan://localhost/tvbox/tvbox.txt"
+        },
+        {
+            "sourceName": "📚洪宇的本地📚",
+            "sourceUrl": "clan://localhost/tvbox/tvbox2.json"
+        }
+    ]
+}
