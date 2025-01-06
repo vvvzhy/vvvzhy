@@ -34,6 +34,7 @@
 ],
 
 "sites":[
+{"key":"drjs_本地直播2","name":"洪宇《GitHub[lpv4+6]》","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/直播转点播.js","ext":"[洪宇DIY]lPV6$https://ghgo.xyz/raw.githubusercontent.com/huang770101/my-iptv/refs/heads/main/IPTV-ipv6.m3u#[洪宇]lPV4$https://ghgo.xyz/raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/iptv.txt#[洪宇]mut$https://ghgo.xyz/raw.githubusercontent.com/110COM/repo/refs/heads/main/dk/mut#[洪宇]lPV6$https://cdn.jsdelivr.net/gh/leiyou-li/moyuntv3@latest/live_ipv6.txt&&&https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
 
 {"key":"csp_Live2Vod","name":"github《洪宇个人直播》","type":3,"playerType":2,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/lf_live8_min.js","ext":"https://cdn.jsdelivr.net/gh/vvvzhy/vvvzhy@latest/YT2.txt"},
 {"key":"drjs_本地直播","name":"洪宇《GitHub直播源》","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/直播转点播.js","ext":"[洪宇DIY]lPV6$https://github.moeyy.xyz/https://raw.githubusercontent.com/lwhx/TV/c92644015b5d05ecc789073b60674a70c64fccad/output/result.txt#[洪宇备用]lPV4$https://cdn.jsdelivr.net/gh/leiyou-li/moyuntv3@latest/live.txt#[洪宇备用]lPV6$https://cdn.jsdelivr.net/gh/leiyou-li/moyuntv3@latest/live_ipv6.txt&&&https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
