@@ -2,9 +2,9 @@
 [
 {"name":"码云⬇洪宇主线⬇","url":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/lmys/yu.json"},
 
+{"name":"GitHub🌐洪宇网络线路🌐","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/yu.json"},
 
-
-{"name":"GitHub🌐洪宇网络线路🌐","url":"https://raw.githubusercontents.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/yu.json"},
+{"name":"GitHub🌐洪宇S加速线路🌐","url":"https://raw.githubusercontents.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/yu.json"},
 {"name":"GitHub🌐洪宇加密🌐码云","url":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tvbox/github.json"},
 
 {"name":"GitHub🌐洪宇加速线路🌐","url":"https://cdn.jsdelivr.net/gh/vvvzhy/vvvzhy@latest/tvbox/yu.json"},
