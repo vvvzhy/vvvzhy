@@ -13,9 +13,13 @@
 {"name":"网络🕶独钓寒江雪🕶","url":"https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/CF_V5.json"},
 
 
-{"name":"网络🕶红旗飘飘🕶","url":"https://gitee.com/liu4331126/liu4331126/raw/master/111.json"}
+{"name":"网络🕶红旗飘飘🕶","url":"https://gitee.com/liu4331126/liu4331126/raw/master/111.json"}, 
 
+{"name":"本地💾A1洪宇DIY💾","url":"clan://localhost/tvbox/a1/a1.json"},
 
+{"name":"本地💾OK洪宇主线💾","url":"clan://localhost/tvbox/ok/api.json"},
+
+{"name":"本地💾YU洪宇副线💾","url":"clan://localhost/tvbox/雷蒙影视/yu.json"}
 
 
 ]
