@@ -55,7 +55,7 @@
 
 "sites":[
 
-{"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/pg2.jar","key":"csp_Jianpian","name":"洪宇🥇荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/jianpian.json$$$1"},
+{"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/pg2.jar","key":"csp_Jianpian2","name":"洪宇🥇荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/jianpian.json$$$1"},
 	
 {"key":"vod_极速","name":"洪宇🥇极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
 {"key":"vod_卧龙","name":"洪宇🥇卧龙","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
