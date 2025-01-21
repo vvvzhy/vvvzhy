@@ -94,7 +94,7 @@
 
 {"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/pg.jar","key":"csp_Jianpian","name":"洪宇🥇荐片弹幕版(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/jianpian.json$$$1"},
 
-{"key": "商店","name": "🐸┃洪宇的商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/market.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/custom_spider.jar"},
+{"key": "商店","name": "🐸┃洪宇的商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/market.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/custom_spider.jar;md5;f4fa24d313b7290001db8ef49bd8ae0b"},
 
 
 {"key":"push_agent","name":"洪宇⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/pg.jar"}
