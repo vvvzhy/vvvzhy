@@ -1,6 +1,9 @@
 { "urls": 
 [
 
+
+{"name":"🍀洪宇的码云🍀","url":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/yu/yu.json"},
+
 {"name":"🏵洪宇YU🏵","url":"file://tvbox/yu/yu.json"},
 
 {"name":"🥌洪宇A1🥌","url":"file://tvbox/a1/a1.json"},
