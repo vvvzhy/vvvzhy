@@ -9,14 +9,19 @@
 "notice": "欢迎使用洪宇DIY源",
  
   "lives": [
-{"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737644188144/okpng.png;md5;7f83a3b58a5140e12bc74cd3ef0ebf97",
-      "name": "ciptv",
-      "type": 3,
-      "api": "csp_HuyaGuard",
-      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-      "playerType": 2,
-      "timeout": 10
-    },
+
+{"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737644188144/okpng.png;md5;7f83a3b58a5140e12bc74cd3ef0ebf97",	  
+	  "name": "洪宇洪宇CIPTV",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
+			},
 	  
 	  {"name":"[洪宇虎斗歪大全]","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/cs/hdy.m3u","ua":"okhttp/3.15","logo":"https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
 
