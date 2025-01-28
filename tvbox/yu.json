@@ -115,6 +115,24 @@
 
 
 
+
+
+
+
+
+
+
+
+{"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/1pg.jar",
+            "key": "洪宇丨秒播",
+            "name": "🔥洪宇丨秒播🔥",
+            "type": 4,
+            "api": "http://jg.zhangqun66.com/225.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+
 // ⇩⇩ JAR挂载 ⇩⇩
 {"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/pg.jar","key":"csp_Ikanbot","name":"洪宇🥇爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy"},
 
