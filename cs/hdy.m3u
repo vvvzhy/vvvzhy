@@ -2,6 +2,11 @@
 
 #EXTM3U
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+#EXTINF:-1 tvg-logo="https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737644188144/okpng.png;md5;7f83a3b58a5140e12bc74cd3ef0ebf97",group-title="虎牙悲喜",大飞机
+https://www.goodiptv.club/huya/52988
+
+
 #EXTINF:-1 tvg-logo="https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737644188144/okpng.png;md5;7f83a3b58a5140e12bc74cd3ef0ebf97",group-title="「虎牙」658组",西部影坛
 https://www.goodiptv.club/huya/30311497
 #EXTINF:-1 tvg-logo="https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737644188144/okpng.png;md5;7f83a3b58a5140e12bc74cd3ef0ebf97",group-title="「虎牙」658组",大鹅观影
