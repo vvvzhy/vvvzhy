@@ -14,7 +14,32 @@
 
 	  
 {"name":"[洪宇咪咕电视]lPV4","type":0,"url":"https://www.freetv.top/migu.m3u","ua":"okhttp/3.15","logo":"https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/yu.png;md5;5fbc3e4ea9e48d3c80d9c83b443ee94d",
+      "name": "虎牙一起看",
+      "type": 3,
+      "api": "csp_HuyaGuard",
+      "url": "yqk",
+      "playerType": 2,
+      "timeout": 10
+    },
 
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/yu.png;md5;5fbc3e4ea9e48d3c80d9c83b443ee94d",
+      "name": "斗鱼一起看",
+      "type": 3,
+      "api": "csp_FeiyangGuard",
+      "url": "douyuyqk.m3u",
+      "timeout": 10,
+      "ua": "okhttp/3.15"
+    },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/yu.png;md5;5fbc3e4ea9e48d3c80d9c83b443ee94d",
+      "name": "YY轮播",
+      "type": 3,
+      "api": "csp_FeiyangGuard",
+      "url": "yylunbo.m3u",
+      "timeout": 10,
+      "ua": "okhttp/3.15"
+    },
+	  
 {"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/okpng.png;md5;2b4273f56c56bce55e472a26dd4a4036",
       "name": "洪宇-YY轮播",
       "type": 3,
