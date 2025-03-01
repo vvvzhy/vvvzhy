@@ -1,6 +1,7 @@
 { "urls": 
 [
 
+{"name":"🍀手动加载allinone🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvse/tvbox/refs/heads/master/github.json"},
 
 
 {"name":"🍀宇新街口🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/yu/refs/heads/master/xzqzy/yu.txt"},
