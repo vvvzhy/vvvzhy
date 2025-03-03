@@ -142,7 +142,17 @@
 
 
 "sites":[
-
+        {
+            "key": "py_光速",
+            "name": "py_光速",
+            "type": 3,
+            "api": "./jar/py_光速.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
 
 {
             "key": "版本信息",
