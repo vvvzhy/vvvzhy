@@ -8,7 +8,106 @@
 
 "notice": "欢迎使用洪宇DIY源",
  
+
   "lives": [
+//████████████████████████████████████    
+
+
+
+    {"jar":"./jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+      "name": "YY轮播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "url": "yylunbo.m3u",
+      "timeout": 10,
+      "ua": "okhttp/3.15"
+    },    
+    
+    
+//    {"jar":"https://raw.githubusercontent.com/canghaixiao369/zy/f94bdb1e03559c93c4367b55a38ca605bf06dd96/jar/pg.jar",
+    {"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741039435605/f0303.txt;md5;56d69deee45f5be9e68c7d393a749c79",
+            	"name": "洪宇虎牙一起看",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		
+
+			},
+{
+				"name": "洪宇斗鱼一起看",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/douyuyqk.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+{
+				"name": "洪宇yy",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},		    
+
+
+
+
+
+
+
+//████████████████████████████████████
+
+
+
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "肥羊直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "tv.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "虎牙一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "huyayqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "斗鱼一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "douyuyqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "YY轮播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "yylunbo.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+
+
+
+
+
+
+
+//████████████████████████████████████
+
+
+
+
+
 {"name":"[范明明转]mut8","type":0,"url":"https://fanmingming.com/txt?url=https://raw.githubusercontent.com/110COM/repo/refs/heads/main/a/mut8.m3u","ua":"okhttp/3.15","logo":"https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
 
 
@@ -142,7 +241,14 @@
 
 
 "sites":[
-        {
+{"key":"玩偶","name":"🤹‍♂️┃饭硬┃玩偶哥哥","type":3,"api":"csp_WoGGGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741039435605/f0303.txt;md5;56d69deee45f5be9e68c7d393a749c79","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+
+{"key":"Wogg","name":"🥎┃PG┃玩偶哥哥","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm2.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg2.json$$$WOGG","jar":"./pg2.jar;md5;9c16582cbdf2a78e0a3c1c5068571356"},
+ 
+	
+	
+	
+	{
             "key": "py_光速",
             "name": "py_光速",
             "type": 3,
