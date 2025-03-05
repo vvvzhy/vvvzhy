@@ -1,6 +1,13 @@
 { "urls": 
 [
 
+
+
+
+
+{"name":"网络⏳洪宇的加载⏳","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/tvbox/refs/heads/master/yu.json"}
+
+
 {"name":"🍀手动加载allinone🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvse/tvbox/refs/heads/master/github.json"},
 
 
