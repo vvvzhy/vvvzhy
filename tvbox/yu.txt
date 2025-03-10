@@ -30,9 +30,10 @@
 
 {"name":"网络🔗独钓寒江雪🔗","url":"https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/CF_V5.json"},
 
-{"name":"网络🔗红旗飘飘🔗","url":"https://gitee.com/liu4331126/liu4331126/raw/master/111.json"}
+{"name":"网络🔗红旗飘飘🔗","url":"https://gitee.com/liu4331126/liu4331126/raw/master/111.json"},
 
-
+{"name":"网络🔗多线路🔗","url":"https://ghproxy.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/yu.txt"},
+{"name":"网络🔗多线路2🔗","url":"https://ghproxy.cfd/https:/raw.githubusercontent.com/vvvvvse/vvvzhy/refs/heads/main/tvbox/yu.txt"}
 
 
 
