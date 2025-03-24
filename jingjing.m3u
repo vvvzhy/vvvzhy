@@ -1,9 +1,12 @@
 
 
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737644188144/okpng.png;md5;7f83a3b58a5140e12bc74cd3ef0ebf97",group-title="虎牙悲喜",大飞机
+https://www.goodiptv.club/huya/52988#https://150-138-174-143.bytefcdnrd.com/src/1487476672-1487476672-6388663659802918912-2975076800-10057-A-0-1-imgplus.flv?302_type=cold_aggr&a_block=0&ctype=tars_mobile&dMod=mseh-0&domain=tx.flv.huya.com&fs=bgct&ratio=2000&redirect_from=pod.cn-9t6bzs.7oiu.nss&sdkPcdn=1_1&sdk_sid=1742826492456&seqid=3211541129990&sv=202412311405&t=103&uid=1468714637474&uuid=403971958&ver=1&wsSecret=ed25004bddbfb25ecc418de9b3eddbd9&wsTime=67e2bd6b
 
 #EXTM3U
+
+
 #EXTINF:-1 group-title="洪宇秒播",香港贺岁片
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.flv
 #EXTINF:-1 group-title="洪宇秒播",鬼吹灯
