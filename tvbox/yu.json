@@ -14,6 +14,11 @@
 
 
 
+{"name":"[洪宇25年]lPV4","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u","ua":"okhttp/3.15","logo":"https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
+
+{"name":"[洪宇25年]lPV6","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u","ua":"okhttp/3.15","logo":"https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
+
+
     {"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
       "name": "YY轮播",
       "type": 3,
