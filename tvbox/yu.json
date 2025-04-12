@@ -232,7 +232,64 @@
 
 
 "sites":[
+        {
+		    "key":"TGDouban",
+		    "name":"洪宇文件｜加载中…",
+		    "type":3,
+		    "api":"csp_TGDouban",
+		    "jar": "https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvse/tvbox/refs/heads/master/pg.txt",
+		    "timeout":120, 
+			"ext":{
+				"token":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvse/tvbox/refs/heads/master/pg/tokenm.json",
+				"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvse/tvbox/refs/heads/master/pg/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"ucpanpan|1000,ucquark|1000,alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
+				"proxy":"noproxy",
+				"douban":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvse/tvbox/refs/heads/master/pg/douban.json",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 0.7
+			}
+		},			
+//https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvse/tvbox/refs/heads/master/refs/heads/master/github.json			
 
+
+
+		{
+			"key": "豆瓣",
+			"name": "洪宇文件 l 加载中…",
+			"type": 3,
+			"api": "csp_Douban",
+			"searchable": 0,
+			"changeable": 1,
+			"indexs":1,
+		    "jar": "https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/pg/refs/heads/main/pgxl2/pg.jar",
+			"ext": "https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/pg/refs/heads/main/pgxl2/lib/tokenm.json$$$https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/pg/refs/heads/main/pgxl2/lib/douban.json"
+		},
+		{"key":"TGDouban","name":"TG豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
+			"ext":{
+				"token":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/pg/refs/heads/main/pgxl2/lib/tokenm.json",
+				"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/pg/refs/heads/main/pgxl2/lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"proxy":"noproxy",
+				"douban":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/pg/refs/heads/main/pgxl2/lib/douban.json",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 0.7
+			}
+		},
+
+//https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/pg/refs/heads/main/pgxl2/jsm.json
+			
 
     {"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/tvbox/refs/heads/master/pg.jar",
         
