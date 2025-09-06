@@ -1,0 +1,27 @@
+{ "urls": 
+[
+
+
+{"name":"📲洪宇影视线路【P1】","url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/469548405/xiaosa/refs/heads/master/xiaosa/api.json"},
+
+{"name":"📲洪宇影视线路【P2】","url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/hy.json"},
+{"name":"📲洪宇影视线路【P3】","url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/469548405/fun/refs/heads/main/jsm.json"},
+
+{"name":"📲洪宇(1-2-3)主备","url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/yu/yu(1-2-3).json"},
+
+{"name":"📲洪宇(1-ALL)全部","url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/yu/yu(1-ALL).json"},
+
+{"name":"🔞洪宇(18+1)限制级","url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/yu/yu(18+1).json"},
+
+{"name":"🔞洪宇(18+2)限制级","url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/yu/yu(18+2).json"}
+
+
+
+
+
+
+
+
+
+]
+}
